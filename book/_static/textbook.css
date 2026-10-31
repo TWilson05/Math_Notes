@@ -1,0 +1,8 @@
+:root { --pst-color-primary: #245a78; --pst-color-link: #1f5f85; }
+.bd-main .bd-content .bd-article-container { max-width: 58rem; }
+.bd-article h1 { color: #1d4e6d; }
+.bd-article h2 { border-bottom: 1px solid #d9e1e6; padding-bottom: .25rem; }
+div.math, div.mathjax-block, div.mathjax-env { overflow-x: auto; }
+figure img { max-width: 100%; height: auto; }
+figcaption { color: #4a5560; font-size: .95rem; }
+pre { border-left: 3px solid #b5c7d3; }

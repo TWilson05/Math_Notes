@@ -1,1 +1,14 @@
 *.fls
+book/_build/
+book/figures/generated/
+book/figures/sources/*.aux
+book/figures/sources/*.dvi
+book/figures/sources/*.fdb_latexmk
+book/figures/sources/*.log
+book/figures/sources/*.pdf
+__pycache__/
+prototypes/.venv/
+prototypes/_build/
+prototypes/sphinx/assets/
+prototypes/sphinx/downloads/
+texput.log

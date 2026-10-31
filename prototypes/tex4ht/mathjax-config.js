@@ -1,0 +1,4 @@
+window.MathJax = {"tex": {"macros": {"prob": "\\mathbb{P}", "brround": ["\\left( #1 \\right)", 1], "brcurly": ["\\left\\{ #1 \\right\\}", 1], "brangle": ["\\left\\langle #1 \\right\\rangle", 1], "R": "\\mathbb{R}", "matrixx": ["\\left[\\begin{matrix}#1\\end{matrix}\\right]", 1], "augmatrix": ["\\left[\\begin{matrix}#1\\end{matrix}\\middle|\\begin{matrix}#2\\end{matrix}\\right]", 2], "ddx": ["\\frac{d #1}{d #2}", 2, ""], "pdx": ["\\frac{\\partial #1}{\\partial #2}", 2, ""], "expect": "\\mathbb{E}", "Var": "\\operatorname{Var}", "lap": "\\mathscr{L}"}, "tags": "ams"}};
+const mathjaxScript = document.createElement("script");
+mathjaxScript.src = "https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js";
+document.head.appendChild(mathjaxScript);

@@ -1,0 +1,24 @@
+{
+  "brangle": ["\\left\\langle #1 \\right\\rangle", 1],
+  "brround": ["\\left( #1 \\right)", 1],
+  "brcurly": ["\\left\\{ #1 \\right\\}", 1],
+  "brsquare": ["\\left[ #1 \\right]", 1],
+  "brvertical": ["\\left| #1 \\right|", 1],
+  "bfrac": ["\\left(\\frac{#1}{#2}\\right)", 2],
+  "matrixx": ["\\left[\\begin{matrix}#1\\end{matrix}\\right]", 1],
+  "eqnsystem": ["\\left\\{\\begin{matrix}#1\\end{matrix}\\right.", 1],
+  "detmatrix": ["\\left|\\begin{matrix}#1\\end{matrix}\\right|", 1],
+  "augmatrix": ["\\left[\\begin{matrix}#1\\end{matrix}\\middle|\\begin{matrix}#2\\end{matrix}\\right]", 2],
+  "R": "\\mathbb{R}", "C": "\\mathbb{C}", "Q": "\\mathbb{Q}", "Z": "\\mathbb{Z}", "N": "\\mathbb{N}",
+  "Ra": "\\Rightarrow", "prob": "\\mathbb{P}", "expect": "\\mathbb{E}",
+  "Var": "\\operatorname{Var}", "Cov": "\\operatorname{Cov}", "Cor": "\\operatorname{Cor}",
+  "lap": "\\mathscr{L}", "F": "\\mathcal{F}", "Null": "\\mathcal{N}", "Range": "\\mathcal{R}",
+  "ddx": ["\\frac{d #1}{d #2}", 2, ""], "pdx": ["\\frac{\\partial #1}{\\partial #2}", 2, ""],
+  "eval": "\\bigg\\vert", "ds": "\\displaystyle", "units": ["\\,\\mathrm{#1}", 1],
+  "arccot": "\\operatorname{arccot}", "arccsc": "\\operatorname{arccsc}", "arcsec": "\\operatorname{arcsec}",
+  "trace": "\\operatorname{tr}", "sgn": "\\operatorname{sgn}", "rank": "\\operatorname{rank}",
+  "spann": "\\operatorname{span}", "proj": "\\operatorname{proj}", "adj": "\\operatorname{adj}",
+  "Arg": "\\operatorname{Arg}", "Log": "\\operatorname{Log}", "Res": "\\operatorname{Res}",
+  "erf": "\\operatorname{erf}", "modu": "\\operatorname{mod}", "norm": "\\mathcal{N}"
+  , "bigO": "\\mathcal{O}"
+}

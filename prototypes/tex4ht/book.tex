@@ -1,0 +1,27 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,dsfont,tcolorbox,graphicx}
+\usepackage{fizztex}
+\usepackage{venndiagram}
+\usepackage{hyperref}
+\hypersetup{hidelinks}
+\newtheorem{theorem}{Theorem}[section]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{example}{Example}[section]
+\title{Mathematics Notes: LaTeX-first Prototype}
+\author{Tyler Wilson}
+\date{}
+\begin{document}
+\maketitle
+Local review only. This is a selected excerpt, not the complete textbook.
+\ifdefined\HCode
+\HCode{<p><a href="mathematics-prototype.pdf">Download the prototype PDF</a></p>}
+\fi
+\tableofcontents
+\input{sample.tex}
+\subsection{Notation checks}
+Added compatibility fixtures, not additional textbook content.
+\input{notation.tex}
+Return to Section~\ref{sec:foundations}.
+\end{document}

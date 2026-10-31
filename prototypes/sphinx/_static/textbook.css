@@ -1,0 +1,4 @@
+.bd-main .bd-content .bd-article-container { max-width: 54rem; }
+.proof { border-left: 3px solid var(--pst-color-primary); padding-left: 1rem; }
+div.math { overflow-x: auto; }
+figure img { height: auto; }

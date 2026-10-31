@@ -1,0 +1,15 @@
+{
+  "figures": [
+    {
+      "id": "workflow-tangent",
+      "source": "sources/tangent-line.tex",
+      "outputs": ["generated/tangent-line.svg", "generated/tangent-line.pdf"],
+      "kind": "redrawn deterministic TikZ/PGFPlots example",
+      "provenance": "Created for this migration prototype",
+      "license": "Repository project license to be confirmed before publication",
+      "alt": "A parabola with a tangent line at a marked point.",
+      "review": "pending"
+    }
+  ],
+  "policy": "Existing raster figures remain in Images/ and require per-asset provenance review before public publication."
+}

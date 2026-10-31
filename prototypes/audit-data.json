@@ -1,0 +1,1281 @@
+{
+  "tex_files": 84,
+  "tex_lines": 15327,
+  "chapters": [
+    {
+      "title": "Complex Analysis",
+      "path": "Sections/Complex_Analysis.tex",
+      "children": [
+        [
+          "Complex_Analysis/",
+          "Complex_Algebra.tex"
+        ],
+        [
+          "Complex_Analysis/",
+          "Complex_Functions.tex"
+        ],
+        [
+          "Complex_Analysis/",
+          "Complex_Integration.tex"
+        ],
+        [
+          "Complex_Analysis/",
+          "Applications_of_Complex_Analysis.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Differential Calculus",
+      "path": "Sections/Differential_Calculus.tex",
+      "children": [
+        [
+          "Differential_Calculus/",
+          "Limits_and_Continuity.tex"
+        ],
+        [
+          "Differential_Calculus/",
+          "Differentiation.tex"
+        ],
+        [
+          "Differential_Calculus/",
+          "Differentiation_Techniques.tex"
+        ],
+        [
+          "Differential_Calculus/",
+          "Approximations.tex"
+        ],
+        [
+          "Differential_Calculus/",
+          "Graphing.tex"
+        ],
+        [
+          "Differential_Calculus/",
+          "Applications_of_Derivatives.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Foundations",
+      "path": "Sections/Foundations.tex",
+      "children": [
+        [
+          "Foundations/",
+          "Numbers.tex"
+        ],
+        [
+          "Foundations/",
+          "Arithmetic.tex"
+        ],
+        [
+          "Foundations/",
+          "FractionalNumbers.tex"
+        ],
+        [
+          "Foundations/",
+          "LinesAndAngles.tex"
+        ],
+        [
+          "Foundations/",
+          "NegativeNumbers.tex"
+        ],
+        [
+          "Foundations/",
+          "OrderOfOperations.tex"
+        ],
+        [
+          "Foundations/",
+          "Shapes.tex"
+        ],
+        [
+          "Foundations/",
+          "VariableArithmetic.tex"
+        ],
+        [
+          "Foundations/",
+          "TrigonometricRatios.tex"
+        ],
+        [
+          "Foundations/",
+          "SequencesAndSeries.tex"
+        ],
+        [
+          "Foundations/",
+          "AnalyzingData.tex"
+        ],
+        [
+          "Foundations/",
+          "Probability.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Integral Calculus",
+      "path": "Sections/Integral_Calculus.tex",
+      "children": [
+        [
+          "Integral_Calculus/",
+          "Definition_of_Integral.tex"
+        ],
+        [
+          "Integral_Calculus/",
+          "Integration_Techniques.tex"
+        ],
+        [
+          "Integral_Calculus/",
+          "Applications_of_Integrals.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Introductory Logic",
+      "path": "Sections/Introductory_Logic.tex",
+      "children": [
+        [
+          "Introductory_Logic/",
+          "Arguments.tex"
+        ],
+        [
+          "Introductory_Logic/",
+          "Elementary_Logic.tex"
+        ],
+        [
+          "Introductory_Logic/",
+          "Formal_Deductive_Systems.tex"
+        ],
+        [
+          "Introductory_Logic/",
+          "Non-Classical_Logic.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Linear Algebra",
+      "path": "Sections/Linear_Algebra.tex",
+      "children": [
+        [
+          "Linear_Algebra/",
+          "Vectors_and_Geometry.tex"
+        ],
+        [
+          "Linear_Algebra/",
+          "Linear_Systems.tex"
+        ],
+        [
+          "Linear_Algebra/",
+          "Matrices.tex"
+        ],
+        [
+          "Linear_Algebra/",
+          "Orthogonality.tex"
+        ],
+        [
+          "Linear_Algebra/",
+          "Eigen-Analysis.tex"
+        ],
+        [
+          "Linear_Algebra/",
+          "Complex_Vector_Spaces.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Mathematical Proof",
+      "path": "Sections/Mathematical_Proof.tex",
+      "children": [
+        [
+          "Mathematical_Proof/",
+          "Logic.tex"
+        ],
+        [
+          "Mathematical_Proof/",
+          "Introduction_to_Proofs.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Multivariable Calculus",
+      "path": "Sections/Multivariable_Calculus.tex",
+      "children": [
+        [
+          "Multivariable_Calculus/",
+          "Functions_of_Multiple_Variables.tex"
+        ],
+        [
+          "Multivariable_Calculus/",
+          "Partial_Derivatives.tex"
+        ],
+        [
+          "Multivariable_Calculus/",
+          "Multiple_Integrals.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Ordinary Differential Equations",
+      "path": "Sections/ODEs.tex",
+      "children": [
+        [
+          "ODEs/",
+          "First_Oder_ODEs.tex"
+        ],
+        [
+          "ODEs/",
+          "Second_Order_ODEs.tex"
+        ],
+        [
+          "ODEs/",
+          "Series_Solutions.tex"
+        ],
+        [
+          "ODEs/",
+          "First_Order_Systems_of_ODEs.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Partial Differential Equations",
+      "path": "Sections/PDEs.tex",
+      "children": [
+        [
+          "PDEs/",
+          "Heat_Equation.tex"
+        ],
+        [
+          "PDEs/",
+          "Wave_Equation.tex"
+        ],
+        [
+          "PDEs/",
+          "Laplace_Equation.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Pre-Calculus",
+      "path": "Sections/Pre-Calculus.tex",
+      "children": [
+        [
+          "Pre-Calculus/",
+          "Functions_and_Coordinates.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Linear_Functions.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Quadratic_Functions.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Transforming_Functions.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Conic_Sections.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Polynomial_Functions.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Exponential_and_Logs.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Trig_Functions.tex"
+        ],
+        [
+          "Pre-Calculus/",
+          "Complex_Numbers.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Probability",
+      "path": "Sections/Probability.tex",
+      "children": [
+        [
+          "Probability/",
+          "Counting.tex"
+        ],
+        [
+          "Probability/",
+          "Foundations.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Series and Transforms",
+      "path": "Sections/Series_and_Transforms.tex",
+      "children": [
+        [
+          "Series_and_Transforms/",
+          "Sequences_and_Series.tex"
+        ],
+        [
+          "Series_and_Transforms/",
+          "Delta_Functions.tex"
+        ],
+        [
+          "Series_and_Transforms/",
+          "Fourier_Series.tex"
+        ],
+        [
+          "Series_and_Transforms/",
+          "Laplace_Transform.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Variational Calculus",
+      "path": "Sections/Variational_Calculus.tex",
+      "children": [
+        [
+          "Variational_Calculus/",
+          "Definition.tex"
+        ]
+      ]
+    },
+    {
+      "title": "Vector Calculus",
+      "path": "Sections/Vector_Calculus.tex",
+      "children": [
+        [
+          "Vector_Calculus/",
+          "Parameterizations.tex"
+        ],
+        [
+          "Vector_Calculus/",
+          "Integrals_in_the_Plane.tex"
+        ],
+        [
+          "Vector_Calculus/",
+          "Integrals_in_Space.tex"
+        ]
+      ]
+    }
+  ],
+  "headings": {
+    "subsection": 75,
+    "subsubsection": 303,
+    "section": 15
+  },
+  "environments": {
+    "align*": 1070,
+    "itemize": 107,
+    "tabular": 105,
+    "proof": 34,
+    "enumerate": 31,
+    "matrix": 16,
+    "tikzpicture": 11,
+    "center": 9,
+    "venndiagram2sets": 4,
+    "flalign*": 2,
+    "small": 2,
+    "multicols": 2,
+    "document": 1,
+    "thebibliography": 1,
+    "description": 1,
+    "array": 1,
+    "scriptsize": 1,
+    "tcolorbox": 1
+  },
+  "macro_uses": {
+    "Arg": 90,
+    "C": 32,
+    "Cor": 5,
+    "Cov": 25,
+    "Exp": 0,
+    "F": 17,
+    "Log": 74,
+    "N": 20,
+    "Null": 44,
+    "Q": 2,
+    "R": 122,
+    "Ra": 768,
+    "Range": 52,
+    "Reflection": 2,
+    "Res": 50,
+    "Rot": 3,
+    "Var": 106,
+    "Z": 47,
+    "adj": 4,
+    "arccot": 5,
+    "arccsc": 4,
+    "arcsec": 9,
+    "augmatrix": 48,
+    "bfrac": 99,
+    "brangle": 283,
+    "brcurly": 344,
+    "brround": 1049,
+    "brsquare": 88,
+    "brvertical": 107,
+    "ceiling": 0,
+    "colourboxed": 12,
+    "colourboxedAux": 0,
+    "comb": 24,
+    "combm": 9,
+    "cond": 7,
+    "cursive": 0,
+    "d": 0,
+    "ddx": 37,
+    "detmatrix": 49,
+    "dir": 2,
+    "ds": 23,
+    "eqnsystem": 126,
+    "erf": 4,
+    "eval": 77,
+    "expect": 262,
+    "floor": 0,
+    "formula": 0,
+    "formulabox": 0,
+    "fvec": 0,
+    "ind": 66,
+    "lap": 116,
+    "matrixx": 576,
+    "modu": 5,
+    "norm": 13,
+    "nullity": 0,
+    "pdx": 29,
+    "perm": 4,
+    "prob": 326,
+    "proj": 30,
+    "rank": 21,
+    "sgn": 19,
+    "spann": 24,
+    "sr": 0,
+    "trace": 4,
+    "units": 11
+  },
+  "packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "array",
+    "calligra",
+    "dsfont",
+    "esint",
+    "fizztex",
+    "fullpage",
+    "hyperref",
+    "import",
+    "inputenc",
+    "mathrsfs",
+    "mathtools",
+    "multicol",
+    "polynom",
+    "tcolorbox",
+    "tikz",
+    "venndiagram",
+    "xcolor"
+  ],
+  "labels": [],
+  "refs": [],
+  "citations": [],
+  "bibliography_entries": 13,
+  "image_references": [
+    {
+      "path": "Images/ComplexAnalysisPictures/HalfMoon.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 46
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Pizza.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 77
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/HalfMoon.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 99
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Box.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 140
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/KeyHole.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 169
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/KeyHole.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 195
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/KeyHole.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 226
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Pizza.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 254
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/KeyHole.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 281
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/HalfMoon.png",
+      "source": "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex",
+      "line": 336
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/ExponentialMapping.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 191
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/ArgumentLaplacian.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 441
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/JoukowskiMap.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 461
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/JoukowskiShift.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 474
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/SinMapping.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 542
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/TranslateSinMap.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 556
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/BranchCut.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 637
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/2a.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 789
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/2b.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 805
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/ExponentialInverse.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 825
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/ExponentialInverse2.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 831
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/QuadraticInverse.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 833
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/QuadraticInverse2.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 838
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/SineInverse.png",
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "line": 938
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/LoopIntegralContinuity.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 303
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/DeformationOfPath.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 319
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/SimplyConnectedDomain.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 321
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/MultipleSingularities.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 339
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/DeformationOfPathEx.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 466
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Q5.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 893
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Q6.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 916
+    },
+    {
+      "path": "Images/ComplexAnalysisPictures/Q7.png",
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "line": 939
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/OptimizationEx.png",
+      "source": "Sections/Differential_Calculus/Applications_of_Derivatives.tex",
+      "line": 28
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/InscribedCylinder.png",
+      "source": "Sections/Differential_Calculus/Applications_of_Derivatives.tex",
+      "line": 43
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/Tangent.png",
+      "source": "Sections/Differential_Calculus/Differentiation.tex",
+      "line": 5
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/RollesTheorem.png",
+      "source": "Sections/Differential_Calculus/Graphing.tex",
+      "line": 60
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/MVTImage.png",
+      "source": "Sections/Differential_Calculus/Graphing.tex",
+      "line": 90
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/Concavity.png",
+      "source": "Sections/Differential_Calculus/Graphing.tex",
+      "line": 185
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/SketchingEx1.png",
+      "source": "Sections/Differential_Calculus/Graphing.tex",
+      "line": 267
+    },
+    {
+      "path": "Images/DifferentialCalculusPictures/limitTriangle.png",
+      "source": "Sections/Differential_Calculus/Limits_and_Continuity.tex",
+      "line": 64
+    },
+    {
+      "path": "Images/FundamentalsPictures/barGraph.png",
+      "source": "Sections/Foundations/AnalyzingData.tex",
+      "line": 16
+    },
+    {
+      "path": "Images/FundamentalsPictures/histogram.png",
+      "source": "Sections/Foundations/AnalyzingData.tex",
+      "line": 36
+    },
+    {
+      "path": "Images/FundamentalsPictures/boxPlot.png",
+      "source": "Sections/Foundations/AnalyzingData.tex",
+      "line": 74
+    },
+    {
+      "path": "Images/FundamentalsPictures/CircleGeometry.jpg",
+      "source": "Sections/Foundations/Shapes.tex",
+      "line": 76
+    },
+    {
+      "path": "Images/FundamentalsPictures/TrigRatios.jpg",
+      "source": "Sections/Foundations/TrigonometricRatios.tex",
+      "line": 4
+    },
+    {
+      "path": "Images/FundamentalsPictures/SpecialTriangles.png",
+      "source": "Sections/Foundations/TrigonometricRatios.tex",
+      "line": 12
+    },
+    {
+      "path": "Images/FundamentalsPictures/SineLawTriangle.png",
+      "source": "Sections/Foundations/TrigonometricRatios.tex",
+      "line": 15
+    },
+    {
+      "path": "Images/IntegralCalcPictures/AreaBetweenCurvesEx1.png",
+      "source": "Sections/Integral_Calculus/Applications_of_Integrals.tex",
+      "line": 7
+    },
+    {
+      "path": "Images/IntegralCalcPictures/AreaBetweenCurvesEx2.png",
+      "source": "Sections/Integral_Calculus/Applications_of_Integrals.tex",
+      "line": 19
+    },
+    {
+      "path": "Images/IntegralCalcPictures/AreaBetweenCurvesEx3.png",
+      "source": "Sections/Integral_Calculus/Applications_of_Integrals.tex",
+      "line": 35
+    },
+    {
+      "path": "Images/IntegralCalcPictures/ArcLengthTriangle.png",
+      "source": "Sections/Integral_Calculus/Applications_of_Integrals.tex",
+      "line": 98
+    },
+    {
+      "path": "Images/IntegralCalcPictures/RiemannSums.png",
+      "source": "Sections/Integral_Calculus/Definition_of_Integral.tex",
+      "line": 18
+    },
+    {
+      "path": "Images/IntegralCalcPictures/AreaOfBellCurve.png",
+      "source": "Sections/Integral_Calculus/Definition_of_Integral.tex",
+      "line": 155
+    },
+    {
+      "path": "Images/IntegralCalcPictures/TrigSubTan.png",
+      "source": "Sections/Integral_Calculus/Integration_Techniques.tex",
+      "line": 226
+    },
+    {
+      "path": "Images/IntegralCalcPictures/TrigSubSin.png",
+      "source": "Sections/Integral_Calculus/Integration_Techniques.tex",
+      "line": 228
+    },
+    {
+      "path": "Images/IntegralCalcPictures/TrigSubSec.png",
+      "source": "Sections/Integral_Calculus/Integration_Techniques.tex",
+      "line": 230
+    },
+    {
+      "path": "Images/Phil120Pictures/image1.png",
+      "source": "Sections/Introductory_Logic/Non-Classical_Logic.tex",
+      "line": 35
+    },
+    {
+      "path": "Images/Phil120Pictures/image2.png",
+      "source": "Sections/Introductory_Logic/Non-Classical_Logic.tex",
+      "line": 151
+    },
+    {
+      "path": "Images/Phil120Pictures/image3.png",
+      "source": "Sections/Introductory_Logic/Non-Classical_Logic.tex",
+      "line": 210
+    },
+    {
+      "path": "Images/Phil120Pictures/image4.png",
+      "source": "Sections/Introductory_Logic/Non-Classical_Logic.tex",
+      "line": 227
+    },
+    {
+      "path": "Images/LinearAlgebraPictures/ResisterNetworksEx.png",
+      "source": "Sections/Linear_Algebra/Linear_Systems.tex",
+      "line": 99
+    },
+    {
+      "path": "Images/LinearAlgebraPictures/VectorAddition.png",
+      "source": "Sections/Linear_Algebra/Vectors_and_Geometry.tex",
+      "line": 25
+    },
+    {
+      "path": "Images/LinearAlgebraPictures/VectorSubtraction.png",
+      "source": "Sections/Linear_Algebra/Vectors_and_Geometry.tex",
+      "line": 29
+    },
+    {
+      "path": "Images/LinearAlgebraPictures/DotProductProof.png",
+      "source": "Sections/Linear_Algebra/Vectors_and_Geometry.tex",
+      "line": 43
+    },
+    {
+      "path": "Images/Math217Pictures/planeGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 10
+    },
+    {
+      "path": "Images/Math217Pictures/sphereGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 13
+    },
+    {
+      "path": "Images/Math217Pictures/cylinderGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 16
+    },
+    {
+      "path": "Images/Math217Pictures/coneGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 19
+    },
+    {
+      "path": "Images/Math217Pictures/parabaloidGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 22
+    },
+    {
+      "path": "Images/Math217Pictures/saddleGraph.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 25
+    },
+    {
+      "path": "Images/Math217Pictures/contourPlot.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 35
+    },
+    {
+      "path": "Images/Math217Pictures/levelCurves.png",
+      "source": "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex",
+      "line": 38
+    },
+    {
+      "path": "Images/PreCalcPictures/PolarGraph1.png",
+      "source": "Sections/Multivariable_Calculus/Multiple_Integrals.tex",
+      "line": 64
+    },
+    {
+      "path": "Images/PreCalcPictures/PolarGraph2.png",
+      "source": "Sections/Multivariable_Calculus/Multiple_Integrals.tex",
+      "line": 66
+    },
+    {
+      "path": "Images/Math217Pictures/cylindricalCoordinates.png",
+      "source": "Sections/Multivariable_Calculus/Multiple_Integrals.tex",
+      "line": 117
+    },
+    {
+      "path": "Images/Math217Pictures/sphericalCoordinates.png",
+      "source": "Sections/Multivariable_Calculus/Multiple_Integrals.tex",
+      "line": 132
+    },
+    {
+      "path": "Images/ODEPictures/PhaseLineStable.png",
+      "source": "Sections/ODEs/First_Oder_ODEs.tex",
+      "line": 145
+    },
+    {
+      "path": "Images/ODEPictures/PhaseLineUnstable.png",
+      "source": "Sections/ODEs/First_Oder_ODEs.tex",
+      "line": 145
+    },
+    {
+      "path": "Images/LinearAlgebraPictures/LCRcircuitEx.jpg",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 121
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait1.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 158
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait2.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 160
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait3.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 163
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait4.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 166
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait5.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 168
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait6.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 276
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait7.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 280
+    },
+    {
+      "path": "Images/ODEPictures/phasePortrait8.png",
+      "source": "Sections/ODEs/First_Order_Systems_of_ODEs.tex",
+      "line": 282
+    },
+    {
+      "path": "Images/ODEPictures/resonance.png",
+      "source": "Sections/ODEs/Second_Order_ODEs.tex",
+      "line": 244
+    },
+    {
+      "path": "Images/ODEPictures/Beats.png",
+      "source": "Sections/ODEs/Second_Order_ODEs.tex",
+      "line": 248
+    },
+    {
+      "path": "Images/ODEPictures/steadyStateResponse.png",
+      "source": "Sections/ODEs/Second_Order_ODEs.tex",
+      "line": 252
+    },
+    {
+      "path": "Images/ODEPictures/steadyStateAmplitude.png",
+      "source": "Sections/ODEs/Second_Order_ODEs.tex",
+      "line": 268
+    },
+    {
+      "path": "Images/PDEPictures/laplace.png",
+      "source": "Sections/PDEs/Laplace_Equation.tex",
+      "line": 7
+    },
+    {
+      "path": "Images/PreCalcPictures/ConicSections.png",
+      "source": "Sections/Pre-Calculus/Conic_Sections.tex",
+      "line": 3
+    },
+    {
+      "path": "Images/PreCalcPictures/ParabolaConic.png",
+      "source": "Sections/Pre-Calculus/Conic_Sections.tex",
+      "line": 29
+    },
+    {
+      "path": "Images/PreCalcPictures/HyperbolaGraph.png",
+      "source": "Sections/Pre-Calculus/Conic_Sections.tex",
+      "line": 47
+    },
+    {
+      "path": "Images/PreCalcPictures/Cartesian Coordinate system.jpg",
+      "source": "Sections/Pre-Calculus/Functions_and_Coordinates.tex",
+      "line": 5
+    },
+    {
+      "path": "Images/PreCalcPictures/LinearSystemIntersection.png",
+      "source": "Sections/Pre-Calculus/Linear_Functions.tex",
+      "line": 41
+    },
+    {
+      "path": "Images/PreCalcPictures/LinearInequalities.jpg",
+      "source": "Sections/Pre-Calculus/Linear_Functions.tex",
+      "line": 88
+    },
+    {
+      "path": "Images/PreCalcPictures/ParabolaSolutions.png",
+      "source": "Sections/Pre-Calculus/Quadratic_Functions.tex",
+      "line": 12
+    },
+    {
+      "path": "Images/PreCalcPictures/Inequality1.png",
+      "source": "Sections/Pre-Calculus/Quadratic_Functions.tex",
+      "line": 95
+    },
+    {
+      "path": "Images/PreCalcPictures/Inequality2.png",
+      "source": "Sections/Pre-Calculus/Quadratic_Functions.tex",
+      "line": 97
+    },
+    {
+      "path": "Images/PreCalcPictures/Inequality3.png",
+      "source": "Sections/Pre-Calculus/Quadratic_Functions.tex",
+      "line": 99
+    },
+    {
+      "path": "Images/PreCalcPictures/ReciprocalEx.png",
+      "source": "Sections/Pre-Calculus/Transforming_Functions.tex",
+      "line": 82
+    },
+    {
+      "path": "Images/PreCalcPictures/ReferenceAngle.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 7
+    },
+    {
+      "path": "Images/PreCalcPictures/SinxandCosx.jpg",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 22
+    },
+    {
+      "path": "Images/PreCalcPictures/tanx.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 41
+    },
+    {
+      "path": "Images/PreCalcPictures/Cscx.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 48
+    },
+    {
+      "path": "Images/PreCalcPictures/Secx.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 49
+    },
+    {
+      "path": "Images/PreCalcPictures/Cotx.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 50
+    },
+    {
+      "path": "Images/PreCalcPictures/InverseTrigGraphs.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 175
+    },
+    {
+      "path": "Images/PreCalcPictures/TriangleInvTrig.png",
+      "source": "Sections/Pre-Calculus/Trig_Functions.tex",
+      "line": 202
+    },
+    {
+      "path": "Images/FundamentalsPictures/PascalTriangle.jpg",
+      "source": "Sections/Probability/Counting.tex",
+      "line": 81
+    },
+    {
+      "path": "Images/FundamentalsPictures/PascalTriangleComb.png",
+      "source": "Sections/Probability/Counting.tex",
+      "line": 83
+    },
+    {
+      "path": "Images/FundamentalsPictures/PascalTrianglePathway.png",
+      "source": "Sections/Probability/Counting.tex",
+      "line": 88
+    },
+    {
+      "path": "Images/FundamentalsPictures/PathwayEx.png",
+      "source": "Sections/Probability/Counting.tex",
+      "line": 93
+    },
+    {
+      "path": "Images/FourierImages/Convolution.png",
+      "source": "Sections/Series_and_Transforms/Delta_Functions.tex",
+      "line": 45
+    },
+    {
+      "path": "Images/FourierImages/SeriesEx2.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 73
+    },
+    {
+      "path": "Images/FourierImages/SeriesEx1.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 135
+    },
+    {
+      "path": "Images/FourierImages/FourierTransformDerivation.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 182
+    },
+    {
+      "path": "Images/FourierImages/DTSincEx1.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 189
+    },
+    {
+      "path": "Images/FourierImages/CTSincEx1.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 193
+    },
+    {
+      "path": "Images/FourierImages/convergingSinc.png",
+      "source": "Sections/Series_and_Transforms/Fourier_Series.tex",
+      "line": 200
+    },
+    {
+      "path": "Images/Math217Pictures/divergenceThmEx.png",
+      "source": "Sections/Vector_Calculus/Integrals_in_Space.tex",
+      "line": 66
+    },
+    {
+      "path": "Images/Math217Pictures/divergenceThmEx2.png",
+      "source": "Sections/Vector_Calculus/Integrals_in_Space.tex",
+      "line": 82
+    },
+    {
+      "path": "Images/Math217Pictures/stokesThmEx.png",
+      "source": "Sections/Vector_Calculus/Integrals_in_Space.tex",
+      "line": 96
+    },
+    {
+      "path": "Images/Math217Pictures/vectorFieldEx1.png",
+      "source": "Sections/Vector_Calculus/Integrals_in_the_Plane.tex",
+      "line": 5
+    },
+    {
+      "path": "Images/Math217Pictures/vectorFieldEx2.png",
+      "source": "Sections/Vector_Calculus/Integrals_in_the_Plane.tex",
+      "line": 7
+    }
+  ],
+  "inline_figures": [
+    {
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "type": "tikzpicture",
+      "line": 32
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "type": "tikzpicture",
+      "line": 60
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "type": "tikzpicture",
+      "line": 83
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Functions.tex",
+      "type": "tikzpicture",
+      "line": 103
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "type": "tikzpicture",
+      "line": 273
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "type": "tikzpicture",
+      "line": 798
+    },
+    {
+      "source": "Sections/Complex_Analysis/Complex_Integration.tex",
+      "type": "tikzpicture",
+      "line": 846
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "venndiagram2sets",
+      "line": 18
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "venndiagram2sets",
+      "line": 22
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "venndiagram2sets",
+      "line": 26
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "venndiagram2sets",
+      "line": 30
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "tikzpicture",
+      "line": 634
+    },
+    {
+      "source": "Sections/Probability/Foundations.tex",
+      "type": "tikzpicture",
+      "line": 650
+    },
+    {
+      "source": "Sections/Variational_Calculus/Definition.tex",
+      "type": "tikzpicture",
+      "line": 8
+    },
+    {
+      "source": "Sections/Variational_Calculus/Definition.tex",
+      "type": "tikzpicture",
+      "line": 19
+    }
+  ],
+  "missing_images": [],
+  "source_sha256": {
+    "MathNotes.tex": "b3d4507a55de29556cf62d7b931c6171f712aa872218aee2192fb1e96824775a",
+    "Sections/Bibliography.tex": "df7248020b61e567a65428e894599d87f43d676411664856c67390cb38f9ea80",
+    "Sections/Complex_Analysis/Applications_of_Complex_Analysis.tex": "17bcbb55dc199be74caea483197e2538c80eec6a00f042cd096549a138e73951",
+    "Sections/Complex_Analysis/Complex_Algebra.tex": "f1c7298f9259fef63f1d09e3b5bf40434748e586dd2cb6a87f5afe41e7d79aa8",
+    "Sections/Complex_Analysis/Complex_Functions.tex": "da99c201a1002b42d41286c465c8bbe3c42f96558d276ec7c980a9f03f98f914",
+    "Sections/Complex_Analysis/Complex_Integration.tex": "fda11fac38b154d9eaf723c9ac0031e9922a4ffc282f990de52c2accefb8e33d",
+    "Sections/Complex_Analysis.tex": "c38dbf6aef1462e0367a47b6a0574bd86fa4d119648dd3e9efc4919a4b97606f",
+    "Sections/Differential_Calculus/Applications_of_Derivatives.tex": "f7a176f3d03e7be1c1d73e4b4f06681ac8bc137af8ffd8e50fa87b614bdbe216",
+    "Sections/Differential_Calculus/Approximations.tex": "ebb498a50863b83947cfe9decbf1dbe14a4d1814289b342e2711d17daf8657a5",
+    "Sections/Differential_Calculus/Differentiation.tex": "4c6f89624e20dd6d3f1153a3ecb412b5f3002d3bc50dae13c20bccc9750adbfb",
+    "Sections/Differential_Calculus/Differentiation_Techniques.tex": "01c0821363383a41f363be2a120172fe7faa2b834f93735fa707896ced157787",
+    "Sections/Differential_Calculus/Graphing.tex": "79075c0bdc4a05d64a2657e90bfd914748ea3e8110320c988b55b0252a6c4320",
+    "Sections/Differential_Calculus/Limits_and_Continuity.tex": "88604b1376c2fbd3e1f2dc29a33eb1290e982f34aa90ffc716fedfcac8f9ab1c",
+    "Sections/Differential_Calculus.tex": "060e10c22785fbd6409776f91b19eedf7bc01b7cf08af1cbb25a6418ca249db2",
+    "Sections/Foundations/AnalyzingData.tex": "e4e4e1467396f27787d45b528646426a1be3362ca98e265a372cd90b3d0fd049",
+    "Sections/Foundations/Arithmetic.tex": "0753a041db3f7627fa9e1488d69edb630428c7a36c8f6672fdb952264b2a053e",
+    "Sections/Foundations/FractionalNumbers.tex": "ef3016bccaeb924bf63b0887e8e629d1b0b30ba2840abae2ac902a411a8a7853",
+    "Sections/Foundations/LinesAndAngles.tex": "a7d3514e61c1b2218b50e779dcf53cf1aa9e25719d12f08cc5d96d7cb059465e",
+    "Sections/Foundations/NegativeNumbers.tex": "d25c1072c92a6bc854e687c12b4a433cf2b45d2fb3afb6e874c9f81407432130",
+    "Sections/Foundations/Numbers.tex": "85ce1dba6d70d92fab435d8ebd55e9bf5a1c2165e20147341c2e6e5bc4f2341d",
+    "Sections/Foundations/OrderOfOperations.tex": "f876414c4ee642d8016832849c2654657e28d3fe8edaea6d2a1611fe3c64ca1d",
+    "Sections/Foundations/PowerLaws.tex": "e1081ed5bccc1101bb64225c4edc93e3cb103ae1da7a4a38f4c794414b7696c5",
+    "Sections/Foundations/Probability.tex": "7237b4467130fed7146596d045fd4584f70cf69b3bb530937cd7a33956f82cc6",
+    "Sections/Foundations/SequencesAndSeries.tex": "d36522d44d10fc6052ef40ad6d9a694ecfaafc325677fbe06429af78e3fafb5a",
+    "Sections/Foundations/Shapes.tex": "a0f17ef53723ad3d1ec831f6da5abfe8a89e86bc38ec5351cd73d34bde97825a",
+    "Sections/Foundations/TrigonometricRatios.tex": "ff4851969445afb49da6f19b590f2c3c3242676b20084ebbf9d1fcb645f9ef1e",
+    "Sections/Foundations/VariableArithmetic.tex": "36b37442bb19d77a87525722f295959834802df7191e35e873959d333771767d",
+    "Sections/Foundations.tex": "924fb3b87001e1abb664929198826b3021597b78762a9497100bc67868f55e69",
+    "Sections/Integral_Calculus/Applications_of_Integrals.tex": "aa1a66ef37c3d99a545c02c1f0763e7e92eb89052ef5d8af7a1274348c141710",
+    "Sections/Integral_Calculus/Definition_of_Integral.tex": "c4cf76a1dd972351040c09b71587da55086c14c5e3e3a8974ab111c1ab5bcdbb",
+    "Sections/Integral_Calculus/Integration_Techniques.tex": "44b2fdff4040f968bf54f971cff057b88ebf27bfee4a047ed3fad4521cb8f6da",
+    "Sections/Integral_Calculus.tex": "e680a77f214a36aea7ee29969335bd6f9c52ebe602f5ecf3d00343468f98655e",
+    "Sections/Introductory_Logic/Arguments.tex": "d2467f4fed78725d80d4aa8deb93b95c6ec865c9a8728aa81c47edc020f6dba9",
+    "Sections/Introductory_Logic/Elementary_Logic.tex": "6f41ac8a05465304f855d830ac735db7e24e6eecbce8f089a47cc2caa5c812ce",
+    "Sections/Introductory_Logic/Formal_Deductive_Systems.tex": "7a8f04ecb10ca8b4f4447864d1d7accf31237300865b840143f10456e626c3ca",
+    "Sections/Introductory_Logic/Non-Classical_Logic.tex": "b27ce7c3c490d9bd0619117b040761c9d2b122c334d7f9e0f12299b53ec54723",
+    "Sections/Introductory_Logic.tex": "bb73834d1b857d067853c6feda3ec281f50a5f71dfb11180c2315c0b82d423e0",
+    "Sections/Linear_Algebra/Complex_Vector_Spaces.tex": "3d29db1b6f34f22c39afc80140ef9950177b8cef02b90b36b3da13f9e70d5bda",
+    "Sections/Linear_Algebra/Eigen-Analysis.tex": "1ba97b5f57e80448e49e1183ed92df2c687152aff184b9c8ebcf3fb97a8484c4",
+    "Sections/Linear_Algebra/Linear_Systems.tex": "822587172d5e60ae1eb6f2167ec297253319638539b4bcc31fda6556747f7536",
+    "Sections/Linear_Algebra/Matrices.tex": "fa1f29df8a27c53ea5bcec31f8cd035f6735a1477fe0dd69aca9d3a3b56fe030",
+    "Sections/Linear_Algebra/Orthogonality.tex": "adb92c5b5167e4a9e3a5eb20a62c67a42bde136aceb6a246d0cd7308cd7a1540",
+    "Sections/Linear_Algebra/Vectors_and_Geometry.tex": "9ba033d8f392156765d50999562ab319001f4b945a2177b64bad20bec5045871",
+    "Sections/Linear_Algebra.tex": "b47227db3710e64584dcbef52b3ac732291af55f6fd65be8f3a9d8a7fb5f61b9",
+    "Sections/Mathematical_Proof/Introduction_to_Proofs.tex": "b5f5d83a0515eb7d6c9e40dfc03d5ce07e99155a4bfa0342a186832655a27107",
+    "Sections/Mathematical_Proof/Logic.tex": "22ae917f6bec7a74f506feff0bcd5687f297dc27a6ddfe0a2cba3614e83f76bc",
+    "Sections/Mathematical_Proof.tex": "9599006c54124ee9202f5895155a380a59144801a2a3dc160113551651f2688b",
+    "Sections/Multivariable_Calculus/Functions_of_Multiple_Variables.tex": "1763400fe7c8eb4aed9025753f37cf3c3252744a6a36c6f259f76f7bfe8d3ceb",
+    "Sections/Multivariable_Calculus/Multiple_Integrals.tex": "504e189929e3ed329a3d1c3ea30584c0b90764b3f6e85297ae06b2078b245385",
+    "Sections/Multivariable_Calculus/Partial_Derivatives.tex": "3d45f01188d05d475198af3adc56052b589f7202e37a5ae654793e852165e8eb",
+    "Sections/Multivariable_Calculus.tex": "3dd2a13f838c70a5f0e2eb006a09ccc5a02e01b456f57c23789ddb91a12d28d7",
+    "Sections/ODEs/First_Oder_ODEs.tex": "f70f13afc0146af2dafab66dfda1aba08eb009e51d1866877b285f528501c62d",
+    "Sections/ODEs/First_Order_Systems_of_ODEs.tex": "cb93190cb335723319d4d43791b64d0de71a7f0654f3d9764fb15a1b58c0a51a",
+    "Sections/ODEs/Second_Order_ODEs.tex": "57743b4b9ea03b15eec90abfe23418c6fc5c847b26cc462883f9f99549461a62",
+    "Sections/ODEs/Series_Solutions.tex": "858a60ed775048df6a7cde286ca7fd3b56a554b77481689f07b3de404266c361",
+    "Sections/ODEs.tex": "7dfc700b49ff43687bdecb69c2bfd5bfaf927f5f34cd0b08f61346e44e215793",
+    "Sections/PDEs/Heat_Equation.tex": "6a3b567d10d89bc3ae73ec185ca21490969c5f4af09bf393c9d0b63f287e7a7a",
+    "Sections/PDEs/Laplace_Equation.tex": "cdce95cd5619cf5c3aade120ea77dd26d61155f3b2494c3bdb394bbed42faf78",
+    "Sections/PDEs/Wave_Equation.tex": "9d1e9e361e093f51ddf5d05fa54dfa46c56abbe4581650d3dc17d1042b0c7270",
+    "Sections/PDEs.tex": "c085d09b723153cb68790a5150a86844d2b85ea4b18466880c0eeaf27fa71d35",
+    "Sections/Pre-Calculus/Complex_Numbers.tex": "ac0b44965240209c090a44ab70a6842a2b712bc12178ab6967d5b9c5bb99ea2a",
+    "Sections/Pre-Calculus/Conic_Sections.tex": "171fca94cd695ccb5978d01384863f82ac241f5e4d13ae87b5765391cd3c5be7",
+    "Sections/Pre-Calculus/Exponential_and_Logs.tex": "8e3a21c40d639e3d36941e08aa171d0f95a8144adb16874a46f0b29cf946d3b3",
+    "Sections/Pre-Calculus/Functions_and_Coordinates.tex": "070f637a32390f9442eead74af319c018dc361cb959447f1334dbd23c1bee0b2",
+    "Sections/Pre-Calculus/Linear_Functions.tex": "741ecfa983b2f58444b8bb10868b6db436eba0c038e7f2d7bab94708f227dbe9",
+    "Sections/Pre-Calculus/Polynomial_Functions.tex": "225db4fc0f101e6fbb66d25340b7e47a9c828ca54bfba1bc108ca8947e242395",
+    "Sections/Pre-Calculus/Quadratic_Functions.tex": "8d4c6cb6cb15e00332b3ade2075d5bb1f1ae1ea92c8d6820bd7521a3873d3d71",
+    "Sections/Pre-Calculus/Transforming_Functions.tex": "8500c8e0617c14c8764da7d5a2d7ce30c312f54fd93671445d075572cb08aef6",
+    "Sections/Pre-Calculus/Trig_Functions.tex": "c7cf2ab54c0ad74d51546806a412f1ae0cbfdf6fa18b8b426d20a1672a6afedb",
+    "Sections/Pre-Calculus.tex": "d2d26959d5004f4ecc83e4791c22c439d7019f967390421033058196846c1a50",
+    "Sections/Probability/Counting.tex": "f078ebb8e7f1b074304077e04ee33ae8e889465f8d9d282f842f2f8e60a33383",
+    "Sections/Probability/Foundations.tex": "7ebd64d3b860e1feef2be1cbdf8a47624268e7bbad677f0a81d13ce0447493a7",
+    "Sections/Probability.tex": "99f490fb75adb3ad7352dedcb62ea9ec15cc08e89dd0caf3323f0e5e5ee48ba6",
+    "Sections/Series_and_Transforms/Delta_Functions.tex": "d2a210e86e70e40272314b6c24371d5e1dc169882f2453cc8b4c777fee4c4768",
+    "Sections/Series_and_Transforms/Fourier_Series.tex": "b47ac19329b24d438c950e675f1de9b8de4ba6bc67f5770c6ddd7ac1b1859fbf",
+    "Sections/Series_and_Transforms/Laplace_Transform.tex": "6ad9c91ffed8967392923b45f92cf58196d3376f9d4eb88653e60ea7d2bf3d5f",
+    "Sections/Series_and_Transforms/Sequences_and_Series.tex": "c2a5ee656a1cbcdd9f212db59de993868984c7cdb78a0047225d440cb66062d8",
+    "Sections/Series_and_Transforms.tex": "db32d38d39203c69bc20679f55af2edd71016fcc20ffb1b34180ff38e2085027",
+    "Sections/Variational_Calculus/Definition.tex": "293fc3f5fb260cfad5aff79fac001fe240227b5dfed89b8344d8d03be14953fb",
+    "Sections/Variational_Calculus.tex": "0dfd70c49ae28e768b5a7c55c9c6c2b0649919e8bcd2ec38fed59e4a4a441021",
+    "Sections/Vector_Calculus/Integrals_in_Space.tex": "53af392c824f112705ef96da4feedada486da04d366d50f8b625de5e148c002c",
+    "Sections/Vector_Calculus/Integrals_in_the_Plane.tex": "664ec7b1d6baf58bf8bf808cd6ca35691cb4cb26cdca650e9e4e699b8e4a84e7",
+    "Sections/Vector_Calculus/Parameterizations.tex": "cd9b14552c452136b786cd5f9441b447b716ff5c77c8d1c20fe1ad089a40d2b9",
+    "Sections/Vector_Calculus.tex": "94466e32851afd5a9938e1bfd9b5e9a4a2448ea7158bfa083c6b5f8827c92b9f",
+    "fizztex.sty": "5d9b73be1371598d5540a1ed2077040078c7ce9a44a8300e17aac471b8af3404"
+  }
+}

@@ -1,0 +1,8 @@
+Observe that $A\cup B=(A\setminus B)\sqcup(A\cap B)\sqcup(B\setminus A)$ which is a disjoint union. Hence,
+\begin{align*}
+    \prob(A\cup B)&=\prob(A\setminus B)+\prob(A\cap B)+\prob(B\setminus A)\\
+    &=\prob(A\setminus B)+\prob(A\cap B)+\prob(B\setminus A)\\
+    &=\prob(A)-\prob(A\cap B)+\prob(A\cap B)+\prob(B)-\prob(A\cap B)\\
+    &=\prob((A\setminus B)\sqcup(A\cap B))+\prob((A\cap B)\sqcup(B\setminus A))-\prob(A\cap B)\\
+    &=\prob(A)+\prob(B)-\prob(A\cap B)
+\end{align*}
