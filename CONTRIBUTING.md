@@ -17,7 +17,9 @@ prototypes/.venv/Scripts/python book/tools/validate_differential.py
 prototypes/.venv/Scripts/python book/tools/validate_book.py
 ```
 
-Use `python -m http.server 8765 --bind 127.0.0.1 --directory book/_build/html` to inspect the site. Open the migrated chapter from the sidebar, resize to a narrow viewport, use search, and follow every new reference before submitting changes.
+Use `powershell -ExecutionPolicy Bypass -File book/serve.ps1` to build and inspect the site at <http://127.0.0.1:8765/>. Open the migrated chapter from the sidebar, resize to a narrow viewport, use search, and follow every new reference before submitting changes. Add `-SkipBuild` if the HTML has already been built.
+
+GitHub Pages is deployed by `.github/workflows/pages.yml` after pushes to `master`. In the repository settings, open **Pages**, set **Source** to **GitHub Actions**, and then monitor the **Deploy textbook to GitHub Pages** workflow under **Actions**.
 
 Regenerate the workflow figure with `make figures` or `powershell -ExecutionPolicy Bypass -File book/tools/build_figures.ps1`. The generated SVG/PDF files are ignored build assets; commit only their source and manifest record when the repository policy requires generated assets to be rebuilt in CI.
 
